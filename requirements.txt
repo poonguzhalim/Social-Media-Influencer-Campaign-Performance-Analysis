@@ -1,0 +1,9 @@
+Required Python Libraries
+
+Library	Purpose
+pandas	Used for data loading, cleaning, and manipulation.
+numpy	Used for numerical calculations and mathematical operations.
+matplotlib	Used for creating charts and data visualizations in Python.
+jupyter	Provides the Jupyter Notebook environment for executing Python code.
+notebook	Supports creating and running interactive notebooks.
+openpyxl	Used for reading and writing Excel files if required.pandas==2.2.2
